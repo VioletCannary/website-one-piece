@@ -98,7 +98,7 @@ main .personagem .imagem {
 }
 
 .botoes .botao.selecionado {
-    box-shadow: 0 0 10px #14cccc;
+    box-shadow: 0 0 15px #143fcc;
     animation: gradientAnimation 3s infinite;
 }
 
